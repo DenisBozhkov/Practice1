@@ -1,0 +1,7 @@
+D:\_ACER\Desktop\МГ\Preparation\11g\bin\Debug\11g.exe.config
+D:\_ACER\Desktop\МГ\Preparation\11g\bin\Debug\11g.exe
+D:\_ACER\Desktop\МГ\Preparation\11g\bin\Debug\11g.pdb
+D:\_ACER\Desktop\МГ\Preparation\11g\obj\Debug\11g.csproj.AssemblyReference.cache
+D:\_ACER\Desktop\МГ\Preparation\11g\obj\Debug\11g.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\МГ\Preparation\11g\obj\Debug\11g.exe
+D:\_ACER\Desktop\МГ\Preparation\11g\obj\Debug\11g.pdb
